@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\bin\Debug\CircularWafer.exe.config
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\bin\Debug\CircularWafer.exe
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\bin\Debug\CircularWafer.pdb
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.Properties.Resources.resources
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.exe
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.pdb
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.WaferPoints.resources
