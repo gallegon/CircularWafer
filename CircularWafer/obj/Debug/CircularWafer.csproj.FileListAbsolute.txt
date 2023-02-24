@@ -9,3 +9,4 @@ C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.
 C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.exe
 C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.pdb
 C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.WaferPoints.resources
+C:\Users\Owner\source\repos\CircularWafer\CircularWafer\obj\Debug\CircularWafer.Form2.resources
